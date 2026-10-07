@@ -93,7 +93,7 @@ journalctl -t smart-auto-profile -f
     </td>
     <td>
       <h3>Sanku (Tharindu Liyanage)</h3>
-      <strong>Lead Developer & Engineer</strong><br><br>
+      <strong>Lead Developer & Student</strong><br><br>
       🎓 <i>Undergraduate at Rajarata University of Sri Lanka (RUSL)</i><br>
       💻 <i>Faculty of Applied Sciences | Department of Computing</i><br><br>
       <b>Credits & Acknowledgments:</b><br>
