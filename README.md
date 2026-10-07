@@ -65,7 +65,7 @@ Prerequisite: Ensure your hardware exposes ACPI profiles by checking if /sys/fir
 Method 1: The Automated Installer (Recommended)
 Deploy the full engine via the interactive bash installer. It automatically neutralizes conflicting daemons and injects the systemd service.
 ```
- git clone [https://github.com/xnodesdevelopers/smart-power-linux.git](https://github.com/xnodesdevelopers/smart-power-linux.git)
+git clone [https://github.com/xnodesdevelopers/smart-power-linux.git](https://github.com/xnodesdevelopers/smart-power-linux.git)
 cd smart-power-linux
 chmod +x install.sh
 ./install.sh 
