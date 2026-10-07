@@ -1,0 +1,19 @@
+# ==============================================================================
+# Smart Power Linux Daemon
+# Engineered by Sanku (Tharindu Liyanage)
+# Zero-bloat, load-based ACPI power management.
+# ==============================================================================
+
+[Unit]
+Description=Smart Power Linux - Advanced ACPI Profile Controller
+After=local-fs.target
+Before=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/smart-auto-profile
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
